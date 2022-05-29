@@ -420,7 +420,7 @@ button.mainmenubutton:hover{
 
   .sdbtn{
     font-size: 15px;
-    margin-top: 87vh ;
+    margin-top: 84vh ;
     margin-left: 7vw;
     width: 59vw;
     height: 7vh;
@@ -432,7 +432,7 @@ button.mainmenubutton:hover{
 
   .sdbtn a {
     color: white;
-    font-size: 27px;
+    font-size: 23px;
   }
 
   .sdbtn:hover{
